@@ -1,11 +1,11 @@
-## Hi, I'm Willian Figueiredo
-
 Technology only makes sense when it makes people's lives easier.
+I'm a Software Developer and Software Engineering student, with 5+ years of background in Web Design and UX/UI Design. My current focus is on Front-end and Mobile development, combining software engineering, design and accessibility to build useful digital products.
 
-I'm a Software Developer and Software Engineering student interested in building products and applications that solve real problems and are designed around the people who use them.
+I enjoy creating intuitive, accessible and functional interfaces, while understanding the real problems and needs of the people using the product. I like being involved throughout the development process, from prototyping and interface design to implementation, API integration, testing and delivery.
 
-I'm currently building a stronger foundation in Java and Kotlin, studying programming logic, object-oriented programming, data structures, backend development, APIs and databases, with a growing interest in mobile and Android development.
+My main stack includes Java, Kotlin, TypeScript, JavaScript, React, React Native and Android development, along with experience in backend development, databases, Git, Docker and Linux.
 
-I also have experience with JavaScript, TypeScript, React and interface development, which has shaped the way I think about UX, UI, accessibility and product development.
+My background in design strongly influences the way I build software. I care about UX/UI, usability, accessibility, design systems and the overall product experience, not just whether the code works.
 
-I like to understand the problem before writing code and to learn how the different parts of software development come together. My goal is to keep improving my technical skills and build useful, well-designed applications that provide a good experience for the people using them.
+I'm also interested in AI-assisted development and LLM-based tools, using technologies such as Claude Code, Codex, GitHub Copilot and Cursor as part of my development workflow.
+My goal is to keep growing as a software developer while building products that solve real problems and genuinely improve people's everyday experiences.
