@@ -3,7 +3,7 @@ I'm a Software Developer and Software Engineering student, with 5+ years of back
 
 I enjoy creating intuitive, accessible and functional interfaces, while understanding the real problems and needs of the people using the product. I like being involved throughout the development process, from prototyping and interface design to implementation, API integration, testing and delivery.
 
-My main stack includes Java, Kotlin, TypeScript, JavaScript, React, React Native and Android development, along with experience in backend development, databases, Git, Docker and Linux.
+My main stack includes Java, Kotlin, TypeScript, JavaScript, React, React Native and Android development, along with experience in backend development, databases and Docker.
 
 My background in design strongly influences the way I build software. I care about UX/UI, usability, accessibility, design systems and the overall product experience, not just whether the code works.
 
